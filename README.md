@@ -7,7 +7,7 @@ mpicc your_file.c -o your_file
 
 or
 ```c
-press ctrl + shift + B
+press ctrl+shift+B
 ```
 To execute
 ```c
