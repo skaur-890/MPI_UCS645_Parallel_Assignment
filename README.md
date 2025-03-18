@@ -1,10 +1,10 @@
 # Parallel_Assignment
 
 Run Locally
-To compile the program, use the following command:  
-
-```bash
-mpicc your_file.c -o your_file
+```python
+def hello():
+    print("Hello, GitHub!")
+```
 
 or
 
