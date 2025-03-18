@@ -1,9 +1,8 @@
 # Parallel_Assignment
 
 Run Locally
-```python
-def hello():
-    print("Hello, GitHub!")
+```c
+mpicc your_file.c -o your_file
 ```
 
 or
