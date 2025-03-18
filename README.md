@@ -2,8 +2,9 @@
 
 Run Locally
 To compile the program
-
+'''sh
 mpicc your_file.c -o your_file
+'''
 or
 
 press ctrl+shift+B
